@@ -9,6 +9,12 @@ This project measures distance using an ultrasonic sensor.
 
 ---
 
+[Ultrasonic](../image/ultra.jpeg)
+ 
+[Mechanism](../image/mech_ultra.jpeg)
+
+---
+
 ## How It Works
 
 - Sensor sends ultrasonic pulse.

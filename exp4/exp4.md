@@ -9,6 +9,10 @@ This project monitors air quality using MQ135 gas sensor.
 
 ---
 
+[GAS_Sensor](../image/smoke_senor.jpeg)
+
+---
+
 ## How It Works
 
 - MQ135 detects gases like CO₂ and smoke.

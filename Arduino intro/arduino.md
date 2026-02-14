@@ -13,14 +13,14 @@ Arduino boards can read inputs (like light from a sensor, a finger on a button, 
 
 ---
 
-### ARDUINO IMAGE
+## ARDUINO IMAGE
 
-![Arduino UNO microcontroller board with USB port, featuring multiple digital and analog pin headers arranged along both sides, mounted on a blue circuit board, positioned against a neutral white background](../Arduino/image/arduino.jpeg)
+![Arduino UNO microcontroller board with USB port, featuring multiple digital and analog pin headers arranged along both sides, mounted on a blue circuit board, positioned against a neutral white background](../image/arduino_pin.jpeg)
 
 ---
 
-### ARDUINO PIN DIAGRAM 
-![Arduino UNO board showing 14 digital pins labeled D0-D13 on the right side with 6 PWM-capable pins marked by tilde symbols, 6 analog input pins labeled A0-A5 on the left side, power pins including 5V and GND, and reset pin, with component locations such as ATmega328P microcontroller, voltage regulator, and USB connector marked on a blue circuit board background](../Arduino/image/arduino_pin.jpeg)
+## ARDUINO PIN DIAGRAM 
+![Arduino UNO board showing 14 digital pins labeled D0-D13 on the right side with 6 PWM-capable pins marked by tilde symbols, 6 analog input pins labeled A0-A5 on the left side, power pins including 5V and GND, and reset pin, with component locations such as ATmega328P microcontroller, voltage regulator, and USB connector marked on a blue circuit board background](../image/arduinoI.jpeg)
 
 ## Features of Arduino
 

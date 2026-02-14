@@ -9,6 +9,14 @@ This project detects an object using an IR sensor and controls a servo motor.
 
 ---
 
+ [IR_sensor](../image/ir_sensor_pin.jpeg)
+
+ ---
+
+ [Servo_motor](../image/servo_motor.jpeg)
+
+ ---
+
 ## How It Works
 
 - IR sensor detects object presence.

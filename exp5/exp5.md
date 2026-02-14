@@ -9,6 +9,20 @@ This project displays keypad input on LCD screen using I2C communication.
 
 ---
 
+[LCD_I2C](../image/lcd.jpeg)
+
+
+[I2C](../image/i2c.jpeg)
+
+---
+
+[keypad](../image/keypad_pin.jpeg)
+
+
+[Keypad_pin](../image/me_keyboard.jpeg)
+
+---
+
 ## How It Works
 
 - Keypad detects key press.

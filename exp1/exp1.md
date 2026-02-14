@@ -9,6 +9,14 @@ This project demonstrates how to control LEDs and a buzzer using push buttons.
 
 ---
 
+[led_push_button](../image/led.jpeg)
+
+--- 
+
+[button](../image/push_button.jpeg)
+
+---
+
 ## How It Works
 
 - Push buttons act as digital inputs.
